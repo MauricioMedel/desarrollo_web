@@ -1,1 +1,1 @@
-"Nombre: David Flores Pozos, Edad: 22, Fecha de nacimiento: 01 de abril de 2004, Color favorito: morado" 
+"Nombre: David Flores Pozos, Edad: 22, Fecha de nacimiento: 1 de Abril del 2004, Color favorito: morado" 
